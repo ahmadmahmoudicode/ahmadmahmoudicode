@@ -32,21 +32,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadmahmoudicode&show_icons=true&theme=default&hide_border=true" alt="Ahmad's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmahmoudicode&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadmahmoudicode&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadmahmoudicode&theme=minimal&hide_border=true" alt="Activity graph"/>
-</p>
-
----
-
 <p align="center"><i>Building things, breaking things, learning from both.</i></p>
